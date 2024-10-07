@@ -1,2 +1,2 @@
 # YT-sub-analysis
-Analyze overlap between different YouTube-channels
+Analyze subscriber-overlap between different YouTube-channels
